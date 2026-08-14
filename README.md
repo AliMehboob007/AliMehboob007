@@ -120,6 +120,59 @@ Currently **open to remote roles and freelance projects**.
 
 <br/>
 
+## Services I Offer
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**Custom Web Applications**
+
+Laravel applications built from scratch — requirements to deployment.
+
+</td>
+<td width="33%" valign="top">
+
+**CRM & HRM Systems**
+
+Business platforms for sales pipelines, employees, attendance and payroll.
+
+</td>
+<td width="33%" valign="top">
+
+**REST API Development**
+
+Secure, documented APIs for web dashboards and mobile applications.
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+**Bug Fixing & Rescue Work**
+
+Taking over unfinished or broken Laravel projects and getting them stable.
+
+</td>
+<td valign="top">
+
+**Database & Performance**
+
+Schema design, query optimization and fixing slow pages under real load.
+
+</td>
+<td valign="top">
+
+**Maintenance & Support**
+
+Ongoing updates, new features and support after the project goes live.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## Featured Work
 
 | Project | Description | Stack | Link |
@@ -129,15 +182,47 @@ Currently **open to remote roles and freelance projects**.
 | **HRM System** | Employee records, attendance, leave workflows and payroll processing | Laravel · MySQL · Blade | Private |
 | **API Services** | Token-authenticated REST APIs serving web and mobile clients | Laravel · Sanctum · MySQL | Private |
 
+<!-- ─────────────────────────────────────────────────────────────────────────
+  FREELANCE PROJECTS — apne asli projects ki details yahan bhar kar
+  is poore comment block ko uncomment kar dein (shuru ke "<!--" aur
+  aakhir ke "-->" hata dein). Jo row use na karni ho usay delete kar dein.
+
+  NOTE: sirf wo projects likhein jo aap ne waqai banaye hain. Fake project
+  likhna profile ka nuqsan karta hai — client hamesha proof maangta hai.
+
+## Freelance Projects
+
+| Project | Client / Type | What I Delivered | Stack | Link |
+|:--------|:--------------|:-----------------|:------|:-----|
+| **PROJECT KA NAAM** | e.g. Retail business, Dubai | Kya banaya — 1 line me | Laravel · MySQL | [Live ↗](URL) |
+| **PROJECT KA NAAM** | e.g. Startup, remote | Kya banaya — 1 line me | Laravel · API | Private |
+| **PROJECT KA NAAM** | e.g. Agency ke liye | Kya banaya — 1 line me | Laravel · Vue | [Live ↗](URL) |
+
+────────────────────────────────────────────────────────────────────────── -->
+
 <br/>
 
 ## How I Work
 
-**Clear communication** — regular progress updates, questions asked early, no silent weeks.
+**1 · Understand** — I start with the business process and the actual users, not the tech. Requirements get written down and confirmed before any code.
 
-**Readable code** — consistent structure, meaningful naming, comments where the *why* isn't obvious.
+**2 · Design** — Database schema and application structure planned up front, so features don't fight the architecture later.
 
-**Realistic delivery** — honest timelines up front, and I hit the ones I commit to.
+**3 · Build** — Work delivered in reviewable pieces, not one big drop at the end. You see progress as it happens.
+
+**4 · Deliver & Support** — Deployment, walkthrough, and support after launch. The handover includes clean source code, not a black box.
+
+<br/>
+
+## Working With Me
+
+<table>
+<tr><td width="30%"><b>Communication</b></td><td>Regular progress updates — questions raised early, no silent weeks</td></tr>
+<tr><td><b>Time zones</b></td><td>Based in Pakistan (PKT) — comfortable overlapping with US, EU and GCC hours</td></tr>
+<tr><td><b>Engagement</b></td><td>Fixed-scope projects, hourly work, or ongoing monthly maintenance</td></tr>
+<tr><td><b>You receive</b></td><td>Full source code, database schema, setup documentation and deployment support</td></tr>
+<tr><td><b>After launch</b></td><td>Post-delivery support window, then optional ongoing maintenance</td></tr>
+</table>
 
 <br/>
 
@@ -155,7 +240,7 @@ Currently **open to remote roles and freelance projects**.
 ## Get in Touch
 
 <table>
-<tr><td><b>Email</b></td><td><a href="mailto:choudharyalimehboob@gmail.com">choudharyalimehboob@gmail.com</a></td></tr>
+<tr><td width="30%"><b>Email</b></td><td><a href="mailto:choudharyalimehboob@gmail.com">choudharyalimehboob@gmail.com</a></td></tr>
 <tr><td><b>Portfolio</b></td><td><a href="https://muhammadali.up.railway.app/">muhammadali.up.railway.app</a></td></tr>
 <tr><td><b>GitHub</b></td><td><a href="https://github.com/AliMehboob007">@AliMehboob007</a></td></tr>
 <tr><td><b>Location</b></td><td>Pakistan — working across US, EU and GCC time zones</td></tr>
