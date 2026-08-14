@@ -16,6 +16,14 @@
   <img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
+<a href="https://wa.me/923024501302?text=Hi%20Ali%2C%20I'd%20like%20to%20discuss%20a%20project">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://t.me/+923024501302">
+  <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+&nbsp;
 <a href="https://github.com/AliMehboob007">
   <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
@@ -241,6 +249,8 @@ Ongoing updates, new features and support after the project goes live.
 
 <table>
 <tr><td width="30%"><b>Email</b></td><td><a href="mailto:choudharyalimehboob@gmail.com">choudharyalimehboob@gmail.com</a></td></tr>
+<tr><td><b>WhatsApp</b></td><td><a href="https://wa.me/923024501302">+92 302 4501302</a> — fastest way to reach me</td></tr>
+<tr><td><b>Telegram</b></td><td><a href="https://t.me/+923024501302">+92 302 4501302</a></td></tr>
 <tr><td><b>Portfolio</b></td><td><a href="https://muhammadali.up.railway.app/">muhammadali.up.railway.app</a></td></tr>
 <tr><td><b>GitHub</b></td><td><a href="https://github.com/AliMehboob007">@AliMehboob007</a></td></tr>
 <tr><td><b>Location</b></td><td>Pakistan — working across US, EU and GCC time zones</td></tr>
