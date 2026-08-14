@@ -87,7 +87,7 @@ Currently **open to remote roles and freelance projects**.
 <td>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-0d9488?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20APIs-0d9488?style=for-the-badge&logoColor=white"/>
 </td>
 </tr>
 <tr>
